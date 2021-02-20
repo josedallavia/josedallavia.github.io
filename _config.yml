@@ -3,9 +3,7 @@ title: Josefina Dalla Via Monti
 author: GitHub User
 email: josefinadallavia@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Josefina Dalla Via Monti's Personal website.
 show_excerpts: true # set to true to show excerpts on the homepage
 #baseurl: /texture
 
@@ -20,7 +18,7 @@ texture:
   tagline: Data Scientist. MSc in Business Analytics.
   date_format: "%b %-d, %Y"
   style: blue
-  showNav: false
+  showNav: true
   showPicker: false
 
   # generate social links in footer

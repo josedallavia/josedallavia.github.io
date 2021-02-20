@@ -42,4 +42,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-[Email-address](josefinadallavia@gmail.com) and we’ll help you sort it out.
+[Email-address](josefinadallavia@gmail.com) 

@@ -21,12 +21,12 @@ texture:
   showNav: true
   showPicker: false
   navigation:
-      - title: Home
-        url: "/posts/presentation"
-      - title: My Work
-        url: "/posts/my-work"
-      - title: Resume
-        url: "/posts/resume"
+#      - title: Home
+#        url: "/posts/presentation"
+#      - title: My Work
+#        url: "/posts/my-work"
+#      - title: Resume
+#        url: "/posts/resume"
 
 
   # generate social links in footer
@@ -39,8 +39,9 @@ texture:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - resume.md
+ - my-work.md
 
 # Build settings
 # theme: texture

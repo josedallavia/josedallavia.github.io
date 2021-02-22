@@ -22,7 +22,7 @@ texture:
   showPicker: false
   navigation:
       - title: Home
-        url: "/posts/my-work"
+        url: "/posts/presentation"
       - title: My Work
         url: "/posts/my-work"
       - title: Resume

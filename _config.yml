@@ -22,9 +22,9 @@ texture:
   showPicker: false
   navigation:
       - title: My Work
-        url: "/posts/coding-post"
+        url: "/posts/my-work"
       - title: Resume
-        url: "/resume"
+        url: "/posts/resume"
 
 
   # generate social links in footer

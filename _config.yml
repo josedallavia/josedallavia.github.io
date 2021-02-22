@@ -21,6 +21,8 @@ texture:
   showNav: true
   showPicker: false
   navigation:
+      - title: Home
+        url: "/"
       - title: My Work
         url: "/posts/my-work"
       - title: Resume

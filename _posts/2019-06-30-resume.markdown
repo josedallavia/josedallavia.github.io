@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Resume"
-description: "My background skills and accomplishments"
-date: ""  
-categories: "" 
+description: My background skills and accomplishments
+date:  
+categories:  
 ---
-This is where my resume goes.
+This is where my resume goes bla bla. 
 
 

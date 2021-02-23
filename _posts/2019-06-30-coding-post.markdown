@@ -2,9 +2,9 @@
 layout: post
 title:  "Presentation"
 description: Intro to my website
-date:   
-categories: 
+date:   2019-05-23 21:03:36 +0530
+categories: Javascript NodeJS
 ---
-This is my site's intro. 
+This is my site's intro bla bla bla.
 
 ```

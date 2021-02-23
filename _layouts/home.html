@@ -3,17 +3,21 @@ layout: page
 ---
 {%- if site.posts.size > 0 -%}
 <ul class="posts">
-	<li>
-		<div class="post-meta">
-			<a class="post-link" href="{{ site.presentation.url | relative_url }}">
-				<h2 class="post-title">{{ site.presentation | escape }}</h2>
-			</a>
-		<div class="post">
-			{%- if site.show_excerpts -%}
-			{{ site.presentation.excerpt }}
-			{%- endif -%}
-		</div>
-	</li>
+	{%- for post in site.posts -%}
+		{%- if site.posts.title == site.presentation -%}
+			<li>
+				<div class="post-meta">
+					<a>
+						<h2 class="post-title">{{ post.title | escape }}</h2>
+					</a>
+				</div>
+				<div class="post">
+				{%- if site.show_excerpts -%}
+					{{ post.excerpt }}
+				{%- endif -%}
+			</div>
+		</li>
+	{% endif %}
+	{%- endfor -%}
 </ul>
 {%- endif -%}
-

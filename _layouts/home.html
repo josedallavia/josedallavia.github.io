@@ -4,7 +4,7 @@ layout: page
 {%- if site.posts.size > 0 -%}
 <ul class="posts">
 	{%- for post in site.posts -%}
-		{%- if site.posts.title == site.presentation -%}
+		{%- if post.title == site.presentation -%}
 			<li>
 				<div class="post-meta">
 					<a>

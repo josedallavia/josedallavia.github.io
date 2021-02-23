@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "Resume"
-description: My background skills and accomplishments
-date:  
-categories:  
+description: Background, skills and accomplishments.
+date:   2019-05-23 21:03:36 +0530
+categories: Javascript NodeJS
 ---
-This is where my resume goes bla bla. 
+Here goes my resume.
+
+```
 
 

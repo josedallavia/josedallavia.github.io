@@ -5,8 +5,81 @@ description: Background, skills and accomplishments.
 date:   2019-05-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
-Here goes my resume.
+### Professional Background
 
-```
+* ***Sr. Data Scientist*** - MercadoLibre (NASDAQ:MELI).  
+_November 2019 - present._
+
+* ***Data Scientist*** - Despegar.com (NYSE:DESP).  
+_July 2018 – November 2019_.
+
+* ***Digital Display Analyst*** - Despegar.com (NYSE:DESP).  
+_July 2017 – July 2018._
+
+* ***Business Intern*** - Google (NASDAQ:GOOGL).  
+_July 2016 – December 2016._
+
+
+### Academic Experience
+
+* ***Thesis Advisor*** - _Universidad Torcuato Di Tella_
+
+* ***Graduate Teaching Assistant*** - _Universidad Torcuato Di Tella_
+    - _Logistics and Operations_
+    - _Unstructured Data Analysis_
+    
+ * ***Undergraduate Teaching Assistant*** - _Universidad Torcuato Di Tella_
+    - _New Business Development_
+    - _Financial Information and Accounting_
+
+### Education 
+
+* ***Master’s degree in Business Analytics*** - Universidad Torcuato Di Tella, 2020.  
+    Summa Cum Laude. GPA: 9.67/10.  
+    Thesis: A Machine Learning Approach for Prediction of Hospital Bed Availability
+
+* ***Bachelor’s Degree in Business Economics*** - Universidad Torcuato Di Tella, 2016.  
+    Summa Cum Laude. GPA: 9.86/10.
+    
+    
+* ***Exchange Program*** - Boston College, 2015.
+
+### Languages
+
+* Spanish: native proficiency
+* English: bilingual proficiency
+
+
+### Technical Skills 
+
+* Programming Languages: Python, R.
+* Advanced SQL skills.
+
+### Other
+* #### Honors, Awards and Scholarships
+    - ***Distinction for Outstanding Academic Performance***,  
+     Universidad Torcuato Di Tella Business School, 2020.
+     
+    - ***Class of 2016 Gold Medal***,   
+    Universidad Torcuato Di Tella, 2016.
+    
+    - ***Best Business Plan Distinction***,   
+    UTDT Annual Entrepreneurship Fair, 2016.
+    
+    - ***Exchange Student Scholarship***,  
+     Boston College International Programs, 2015.
+     
+     - ***Academic Merit Scholarship***,  
+      Universidad Torcuato Di Tella, 2013.
+
+* #### Courses
+    - _Practical Deep Learning for Coders_ – fastai.
+    -
+* #### Exams & Certificates
+    
+   - TOEFL IBT, Score of 100 (2014).
+   - First Certificate Examination, Cambridge University (2011).
+
+
 
 

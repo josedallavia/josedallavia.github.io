@@ -5,6 +5,35 @@ description: This is my work
 date:   2019-05-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
-Here I described what I've been working on.
 
-```
+<style>
+body {
+text-align: justify}
+</style>
+
+## Projects
+
+### A Machine Learning approach for the Prediction of Hospital Bed Availability.
+
+<embed src="Dalla_Via_Tesis_final.pdf" type="application/pdf" width="100%" height="200">
+
+
+
+En mi tesis abordé un típico problema de operaciones, como es la gestión de camas de internación en un centro de salud, 
+desde una perspectiva de Machine Learning. 
+Los conocimientos técnicos adquiridos durante la maestría me permitieron construir un modelo de aprendizaje automático para predecir la probabilidad de que un paciente sea dado de alta.
+La solución diseñada da respuesta a una necesidad fundamental del negocio: contar con un forecast del nivel de camas a liberarse para optimizar su asignación y garantizar los niveles de ocupación que hacen a una operación eficiente.
+La herramienta resultó ser de sumo interés para el equipo de Operaciones del sanatorio en cuestión y hoy en día se está tratando su implementación a escala real.
+
+You can access the full thesis document [here](https://www.utdt.edu/download.php?fname=_160450189792558600.pdf)
+### Recommendation Systems
+
+
+
+[embed][/embed]
+
+![Drag Racing]
+### Customer Segmentation
+
+
+## Interests 

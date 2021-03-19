@@ -36,7 +36,7 @@ _July 2016 – December 2016._
 
 * ***Master’s degree in Business Analytics*** - Universidad Torcuato Di Tella, 2020.  
     Summa Cum Laude. GPA: 9.67/10.  
-    Thesis: A Machine Learning Approach for Prediction of Hospital Bed Availability
+    Thesis: _A Machine Learning Approach for Prediction of Hospital Bed Availability_
 
 * ***Bachelor’s Degree in Business Economics*** - Universidad Torcuato Di Tella, 2016.  
     Summa Cum Laude. GPA: 9.86/10.

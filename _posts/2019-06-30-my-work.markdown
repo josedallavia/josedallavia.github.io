@@ -15,7 +15,7 @@ text-align: justify}
 
 ### A Machine Learning approach for the Prediction of Hospital Bed Availability.
 
-<embed src="Dalla_Via_Tesis_final.pdf" type="application/pdf" width="100%" height="200">
+<embed src="Dalla_Via_Tesis_final.pdf" type="application/pdf" width="100%" height="700px">
 
 
 

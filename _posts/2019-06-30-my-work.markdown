@@ -15,9 +15,9 @@ text-align: justify}
 
 ### A Machine Learning approach for the Prediction of Hospital Bed Availability.
 
-<embed src="Dalla_Via_Tesis_final.pdf" type="application/pdf" width="100%" height="700px">
+<embed src="https://github.com/josedallavia/A-Machine-Learning-Approach-for-Prediction-of-Hospital-Bed-Availability/blob/master/Dalla%20Via_Tesis%20final.pdf" type="application/pdf" width="100%" height="700px">
 
-
+![texture theme preview](https://github.com/josedallavia/A-Machine-Learning-Approach-for-Prediction-of-Hospital-Bed-Availability/blob/master/Dalla%20Via_Tesis%20final.pdf)
 
 En mi tesis abordé un típico problema de operaciones, como es la gestión de camas de internación en un centro de salud, 
 desde una perspectiva de Machine Learning. 

@@ -13,27 +13,50 @@ text-align: justify}
 
 ## Projects
 
-### A Machine Learning approach for the Prediction of Hospital Bed Availability.
+### Recommendation Systems
+As part of my job as a DataScientist at MercadoLibre I'm currently working on developing 
+a *Deep-Learning-based* recommendation system to give real-time customized 
+recommendations to our users based on their recent navigation history. 
+We have framed the problem as a sequence model where the task
+ is to predict the user's next purchase. We use an *attention-based RNN* to interpret the user's navigation 
+ intent and, based on this, rank a pool of heuristically generated candidates that will serve as a recommendation.
 
-<embed src="https://github.com/josedallavia/A-Machine-Learning-Approach-for-Prediction-of-Hospital-Bed-Availability/blob/master/Dalla%20Via_Tesis%20final.pdf" type="application/pdf" width="100%" height="700px">
+### Natural Language Processing
 
-![texture theme preview](https://github.com/josedallavia/A-Machine-Learning-Approach-for-Prediction-of-Hospital-Bed-Availability/blob/master/Dalla%20Via_Tesis%20final.pdf)
+I have worked in different projects involving Natural Language Processing.
+Most recently, we have developed a questions-classifier for MercadoLibre 
+buyers' questions. We took advantage of a state of the art Language Model that 
+then we trained using custom data to capture the domain-specific knowledge. 
+We used Transfer Learning
+to fine tune the model weights for the classification tasks, needing a relatively 
+small amount of labeled data to achieve a satisfactory performance. 
+The classifier was able to capture some pretty complex examples in the data. 
 
-En mi tesis abordé un típico problema de operaciones, como es la gestión de camas de internación en un centro de salud, 
-desde una perspectiva de Machine Learning. 
-Los conocimientos técnicos adquiridos durante la maestría me permitieron construir un modelo de aprendizaje automático para predecir la probabilidad de que un paciente sea dado de alta.
-La solución diseñada da respuesta a una necesidad fundamental del negocio: contar con un forecast del nivel de camas a liberarse para optimizar su asignación y garantizar los niveles de ocupación que hacen a una operación eficiente.
-La herramienta resultó ser de sumo interés para el equipo de Operaciones del sanatorio en cuestión y hoy en día se está tratando su implementación a escala real.
+### Healthcare applications of Machine Learning
+
+In the context of my Master's thesis, I approached a critical problem in the healthcare sector from a Machine Learning perspective.
+Together with the Operations Management team of one of the biggest hospitals in Buenos Aires,
+ we developed a tool to forecast discharges in the following 24 hours in order to provide management with crucial information
+ to optimize the allocation of the free beds.
+ The problem was modelled as classification task where the objective was 
+ predicting whether a patient was going to be discharged in the following 24 hours or not. 
+ The model incorporated the full patient's clinic records and was able to predict the odds 
+ of a discharge during the day with a satisfactory performance (AUC Roc of 0.85). 
+ The most challenging aspect of the project was gathering the data coming from the different 
+ highly unstandardized databases of the hospital, making sense of it and processing it in order
+ to get a useful dataset for the classification task at hand.
 
 You can access the full thesis document [here](https://www.utdt.edu/download.php?fname=_160450189792558600.pdf)
-### Recommendation Systems
 
 
+### Customer Segmentation and Life Time Value
+As part of my job as a DataScientist at Despegar.com I worked intensively on analyzing,
+ assesing and iterating the company's customer segmentation model. 
+ Eventually, this model evolved into a LTV model, whose objective was to predict the travel
+ expenses in which users were going to incur during the course of a year.
+ We developed a classifier that would allocate users into one out of 
+ ten buckets according to their expected travel expenses. These predictions 
+ were then used to build marketing campaing audiences that allow to bid 
+ and communicate appropriately based on the prospective LTV of the customers being targeted.
 
-[embed][/embed]
 
-![Drag Racing]
-### Customer Segmentation
-
-
-## Interests 

@@ -9,8 +9,11 @@ categories: Javascript NodeJS
 I'm an **economist** developing a career in **Data Science**.
 I hold a **Bachelors' degree in Business Economics** from **Universidad Torcuato Di Tella** and 
 a **Master's Degree in Business Analytics** from the same institution.  
-I'm currently working for the **Applied Machine Learning Team** at **[MercadoLibre](www.mercadolibre.com)**.  
-I aim to become an **expert** in building **data solutions** to address a variety of **business problems** in different industries.
+I'm currently part of the **Applied Machine Learning Team** at **[MercadoLibre](www.mercadolibre.com)**, 
+where I work building **machine learning models** to address **challenging problems** 
+across the company's business units.  
+I aim to become an **expert** in the application of state of the art **Data Science techniques** 
+to bring **solutions** to different **business problems** in different industries.
 <style>
 body {
 text-align: justify}

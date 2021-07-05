@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My work"
-description: This is my work
+description: This is some of the stuff I've been working on.
 date:   2019-05-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
